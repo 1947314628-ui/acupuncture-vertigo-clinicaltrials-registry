@@ -1,0 +1,26 @@
+{
+  "fetch_date": "2026-07-01T21:05:46.684655",
+  "condition_terms": [
+    "vertigo",
+    "dizziness",
+    "vertiginous",
+    "dizzy",
+    "Meniere"
+  ],
+  "intervention_terms": [
+    "acupuncture",
+    "electroacupuncture",
+    "acupoint",
+    "moxibustion",
+    "acupressure",
+    "auricular acupuncture",
+    "ear acupuncture"
+  ],
+  "targeted_unique": 105,
+  "broad_unique": 3448,
+  "combined_unique": 3448,
+  "targeted_raw_total": 735,
+  "broad_raw_total": 3448,
+  "broad_query": "vertigo OR dizziness OR Meniere",
+  "method": "Multi-query term search + broad vertigo search with NCT ID deduplication"
+}

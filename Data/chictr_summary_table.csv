@@ -1,0 +1,16 @@
+﻿#,reg_id,year,disease,design,blinding,n,intervention,control,primary,location,status
+1,ChiCTR2600129448,2026,BPPV,RCT-parallel,Open-label,124,"Acupuncture(GV20,SI19,bilateral GB20,bilateral TE3",Brandt-Daroff vestibular rehabilitation,VAS at 2 weeks,"Hefei,Anhui",Completed
+2,ChiCTR2400087030,2024,Posterior circulation ischemia,RCT-parallel,Assessor+statistician bli,228,"Acupuncture(GV14,bilateral GB20,bilateral GB12,bil",Sham acupuncture(non-acupoints);Betahist,DHI,"Chengdu,Sichuan",Not yet recruiting
+3,ChiCTR2400081857,2024,Cervical vertigo,RCT-parallel,Statistician blinded,74,Tongyang medicine cupping+filiform needle acupunct,Betahistine mesylate tablets,Cervical Vertigo Symptom and F,"Taiyuan,Shanxi",Not yet recruiting
+4,ChiCTR2400080759,2024,Cervical vertigo(Qi-blood deficiency),RCT-3arm,Single-blind(subject+asse,99,GrpA:Tiaoshen 3-needle+umbilical;GrpB:Tiaoshen 3-n,3-arm inter-comparison(no drug control),Cervical Vertigo Scale;Qi-Bloo,"Hangzhou,Zhejiang",Not yet recruiting
+5,ChiCTR2300079281,2023,BPPV(otolithiasis),RCT-parallel,Single-blind(subject+asse,60,Huangdi internal acupuncture,Betahistine mesylate tablets,DHI,"Qionglai,Sichuan",Not yet recruiting
+6,ChiCTR2300076015,2023,BPPV,RCT-parallel,None(open-label),84,Acupuncture(points unspecified),Betahistine mesylate tablets,DHI,"Jinan,Shandong",Recruiting
+7,ChiCTR2300074551,2023,Peripheral vertigo,RCT-parallel,None,120,Scalp acupuncture electrical stimulation,Pharmacological treatment(unspecified),DHI;HADS,"Wuhan,Hubei",Recruiting
+8,ChiCTR2300073176,2023,BPPV,RCT-Zelen,None,100,"Acupuncture(affected SI19,GB2,GB12)",Betahistine 6mg tid,DHI;RDW,"Zhuhai,Guangdong",Recruiting
+9,ChiCTR2200056229,2022,Cervical vertigo,RCT-3arm,Subject+assessor+statisti,108,Rapid filiform needling,Sham acupuncture;Oral medication(unspeci,fMRI;EEG;TCD,"Lianyungang,Jiangsu",Not yet recruiting
+10,ChiCTR2200055867,2022,Posterior circulation ischemia,RCT-parallel,Assessor+TCD+analyst blin,116,Acupuncture at San Feng(posterior neck),Sham acupuncture(non-penetrating),DARS;TCD;Ultrasound efficacy,"Shenzhen,Guangdong",Recruiting
+11,ChiCTR2100051753,2021,Posterior circulation ischemia,RCT-parallel,Not stated,124,Manipulation+acupuncture(points unspecified),Drug(unspecified),Blood perfusion(MRI),Shanghai,Not yet recruiting
+12,ChiCTR2100047162,2021,Vestibular vertigo(acute),RCT-parallel,Not stated,146,Acupotomy,Betahistine,DHI;VSI;UCLA-DQ;Timing balance,"Chengdu,Sichuan",Recruiting
+13,ChiCTR2000039716,2020,Cervical vertigo,RCT-3arm,Subject blinded,108,Quick needling with filiform needle,Sham acupuncture;Oral drug(unspecified),Multimodal fMRI;Color Doppler ,"Lianyungang,Jiangsu",Recruiting
+14,ChiCTR2000036713,2020,Cervical vertigo,RCT-4arm,Not stated,360,Grp1:Acupotomy;Grp2:Balance manipulation;Grp3:Acup,4-arm inter-comparison,DHI,Shanghai,Not yet recruiting
+15,ChiCTR-IOR-16009919,2016,Cervical vertigo,RCT-parallel,Not stated,124,Epidural block+electroacupuncture,Epidural block alone,Cervical Vertigo Scale;DHI,"Urumqi,Xinjiang",Not yet recruiting

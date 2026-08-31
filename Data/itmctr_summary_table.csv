@@ -1,0 +1,12 @@
+﻿reg_id,year,disease,design,blinding,n,intervention,control,primary,location,status,notes
+ITMCTR2026001675,2026,Cervical vertigo,RCT-parallel,Not stated,76,Nape 7-needle + pressure moxibustion,Betahistine,ESCV;TCD,"Hangzhou,Zhejiang",Not yet recruiting,Tertiary B
+ITMCTR2026001516,2026,Peripheral vertigo(Yang deficiency),RCT-parallel,Not stated,60,Acupoint thread embedding,Betahistine,DHI,"Chengdu,Sichuan",Not yet recruiting,Thread embedding(acupoint);Tertiary A
+ITMCTR2026001291,2026,Posterior circulation ischemia,RCT-parallel,Not stated,80,Six-Qi acupuncture,Conventional therapy,Clinical efficacy rate,Shanghai,Not yet recruiting,Community health center(Grade I)
+ITMCTR2026000775,2026,Posterior circulation ischemia,RCT-parallel,Assessor blinded,60,Head 7-needle,Betahistine,DHI;DARS,"Wuhu,Anhui",Recruiting,Retrospective reg;Tertiary A
+ITMCTR2026000378,2026,Posterior circulation ischemia,RCT-parallel,Assessor blinded,60,Acupuncture + press needle,Conventional drug,VAS;TCD,"Guiyang,Guizhou",Not yet recruiting,Tertiary A
+ITMCTR2025002341,2025,BPPV,RCT-parallel,Subject+assessor blinded,80,Acupuncture + betahistine,Betahistine,DHI;RDW,"Zhuhai,Guangdong",Completed,Retrospective reg;Tertiary A
+ITMCTR2025001283,2025,Post-stroke vascular vertigo,RCT-3arm,Not stated,234,Acupuncture;Sham,Betahistine,DHI,"Chengdu,Sichuan",Not yet recruiting,Multi-center(4 sites);Tertiary A
+ITMCTR2025001259,2025,Cervical vertigo,RCT-parallel,Not stated,84,Nape 7-needle,Conventional acupuncture,Cervical Vertigo Scale,"Jinan,Shandong",Completed,Retrospective reg;rs-fMRI;Tertiary A
+ITMCTR2025000901,2025,CSVD-related dizziness,RCT-parallel,Not stated,76,Acupuncture + vestibular rehab,Vestibular rehab,DHI,"Fuzhou,Fujian",Completed,Retrospective reg;Tertiary A
+ITMCTR2026000206,2026,PPPD,RCT-3arm,Not stated,60,Auricular press needle + vestibular rehab,Vestibular rehab;Sham auricular,Dizziness duration,"Zhengzhou,Henan",Not yet recruiting,Pilot;Tertiary A
+ITMCTR2026000347,2026,Vestibular migraine,Non-randomized,Not stated,80,Acupuncture at GB20,Acupuncture(same),Multimodal MRI,Beijing,Recruiting,Non-randomized;Retrospective reg;Tertiary A

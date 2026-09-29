@@ -1,0 +1,1362 @@
+[
+ {
+  "regno": "ChiCTR2600131844",
+  "title": "多组学与人工智能的椎间盘退变分子分型鉴定及调控机制研究",
+  "institution": "中国人民解放军陆军特色医学中心",
+  "study_type": "观察性研究",
+  "date": "2026/09/07",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2600130924",
+  "title": "BPPV复位后早期残余头晕的影响因素分析及预测模型的构建：前瞻性队列研究",
+  "institution": "中国人民解放军陆军军医大学第二附属医院",
+  "study_type": "观察性研究",
+  "date": "2026/08/26",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2600130084",
+  "title": "基于四种诱发动作症状特质的良性阵发性位置性眩晕侧别判断：一项569例的前瞻性队列研究",
+  "institution": "中国人民解放军联勤保障部队第九八八医院",
+  "study_type": "观察性研究",
+  "date": "2026/08/14",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2600129972",
+  "title": "急性前庭综合征的准确定位诊断研究",
+  "institution": "北京医院",
+  "study_type": "诊断试验",
+  "date": "2026/08/12",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2600129448",
+  "title": "针刺治疗良性阵发性位置性眩晕复位后残余头晕的临床研究",
+  "institution": "上海中医药大学附属曙光医院安徽医院",
+  "study_type": "干预性研究",
+  "date": "2026/08/05",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2600127103",
+  "title": "头晕/头痛专病全程精细化管理系统的构建与应用研究",
+  "institution": "浙江省人民医院",
+  "study_type": "观察性研究",
+  "date": "2026/06/24",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2600127063",
+  "title": "中国难治性内耳疾病创新诊疗体系建立及关键技术研发与应用",
+  "institution": "解放军总医院第六医学中心",
+  "study_type": "观察性研究",
+  "date": "2026/06/23",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2600126891",
+  "title": "儿童头晕/眩晕临床特征及转归队列研究",
+  "institution": "复旦大学附属眼耳鼻喉科医院",
+  "study_type": "观察性研究",
+  "date": "2026/06/18",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2600125338",
+  "title": "脑卒中后的时辰康复策略研究",
+  "institution": "北京博爱医院",
+  "study_type": "干预性研究",
+  "date": "2026/05/25",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2600125183",
+  "title": "急诊中用于区分中枢性与外周性眩晕的多中心可解释机器学习模型的开发及前瞻性验证",
+  "institution": "徐州市第一人民医院",
+  "study_type": "观察性研究",
+  "date": "2026/05/22",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2600123511",
+  "title": "遗忘规律指导下的阶梯式健康教育在良性阵发性位置性眩晕患者中的应用",
+  "institution": "萍乡市第二人民医院",
+  "study_type": "干预性研究",
+  "date": "2026/04/27",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2600121134",
+  "title": "常见耳源性眩晕发病机制与客观诊断、精准分型的关键技术",
+  "institution": "华中科技大学同济医学院附属协和医院",
+  "study_type": "观察性研究",
+  "date": "2026/03/26",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2600119785",
+  "title": "盐酸苯环壬酯片治疗眩晕急性发作期患者的有效性和安全性的阳性药物对照研究",
+  "institution": "首都医科大学宣武医院",
+  "study_type": "干预性研究",
+  "date": "2026/03/03",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2600117651",
+  "title": "良性阵发性位置性眩晕危险因素在不同年龄群体的回顾性分析",
+  "institution": "南方医科大学南方医院",
+  "study_type": "观察性研究",
+  "date": "2026/01/27",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2600116577",
+  "title": "睡眠与炎症在BPPV预后中的作用研究",
+  "institution": "武汉市汉阳医院",
+  "study_type": "观察性研究",
+  "date": "2026/01/12",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2500115373",
+  "title": "阻塞性睡眠呼吸暂停患者中眩晕的发病率及相关危险因素分析：基于回顾性队列的研究",
+  "institution": "中山大学附属第五医院",
+  "study_type": "观察性研究",
+  "date": "2025/12/25",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2500109314",
+  "title": "经皮耳迷走神经刺激对冷热试验产生的眩晕和恶心的预防作用",
+  "institution": "中山大学孙逸仙纪念医院",
+  "study_type": "干预性研究",
+  "date": "2025/09/16",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2500109126",
+  "title": "耳石症复位新方案UTCRM治疗效果分析",
+  "institution": "山东省第二人民医院（山东省耳鼻喉医院、山东省耳鼻喉研究所）",
+  "study_type": "干预性研究",
+  "date": "2025/09/12",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2500108619",
+  "title": "良性阵发性位置性眩晕临床特征、治疗与转归的多中心队列研究",
+  "institution": "复旦大学附属眼耳鼻喉科医院",
+  "study_type": "观察性研究",
+  "date": "2025/09/02",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2500107729",
+  "title": "探索良性阵发性位置性眩晕疾病谱和临床特征分析: 一项多中心临床研究",
+  "institution": "中山大学孙逸仙纪念医院",
+  "study_type": "观察性研究",
+  "date": "2025/08/18",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2500107253",
+  "title": "脑部血管健康扫描：提前发现中风风险",
+  "institution": "粤北人民医院",
+  "study_type": "观察性研究",
+  "date": "2025/08/07",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2500107252",
+  "title": "中枢性眩晕病人脑毛细血管反映性损伤的检测",
+  "institution": "四川大学华西医院",
+  "study_type": "观察性研究",
+  "date": "2025/08/07",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2500106836",
+  "title": "声学干预治疗睡眠障碍伴前庭觉及视觉症状的临床研究",
+  "institution": "上海市杨浦区中心医院(同济大学附属杨浦医院)",
+  "study_type": "干预性研究",
+  "date": "2025/07/30",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2500101308",
+  "title": "Brandt-Daroff 训练对良性阵发性位置性眩晕复位成功后残余症状的治疗效果：多中心随机对照试验",
+  "institution": "复旦大学附属眼耳鼻喉科医院",
+  "study_type": "干预性研究",
+  "date": "2025/04/23",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2500101235",
+  "title": "多中心试验-面向患者的对话式问诊大模型的诊断能力测试",
+  "institution": "复旦大学附属眼耳鼻喉科医院",
+  "study_type": "诊断试验",
+  "date": "2025/04/22",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2500099133",
+  "title": "基于多模态磁共振技术探究耳石残余症状发病机制及构建疗效预估模型",
+  "institution": "西安交通大学第一附属医院",
+  "study_type": "观察性研究",
+  "date": "2025/03/19",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2500097231",
+  "title": "基于移动远程系统的家属参与式护理结合反馈式健康教育对良性阵发性位置性眩晕患者院外前庭康复影响的研究",
+  "institution": "联勤保障部队第九二五医院神经内科",
+  "study_type": "干预性研究",
+  "date": "2025/02/14",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2400094096",
+  "title": "全功能前庭诱发肌源性电位检测在前庭神经炎诊断中的应用：一项多中心观察性研究",
+  "institution": "上海交通大学医学院附属新华医院",
+  "study_type": "诊断试验",
+  "date": "2024/12/17",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2400094067",
+  "title": "良性阵发性位置性眩晕复位后重返正常生活及影响因素研究",
+  "institution": "厦门市海沧医院",
+  "study_type": "观察性研究",
+  "date": "2024/12/16",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2400091397",
+  "title": "右美托咪定鼻喷对突发性耳聋患者睡眠质量及临床治愈率影响的研究",
+  "institution": "聊城市人民医院",
+  "study_type": "干预性研究",
+  "date": "2024/10/28",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2400089706",
+  "title": "宁晕益压饮治疗高血压眩晕的临床疗效观察",
+  "institution": "江苏省中西医结合医院",
+  "study_type": "干预性研究",
+  "date": "2024/09/13",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2400089341",
+  "title": "双目视频头脉冲试验的临床应用",
+  "institution": "复旦大学附属眼耳鼻喉科医院",
+  "study_type": "观察性研究",
+  "date": "2024/09/06",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2400088618",
+  "title": "良性阵发性位置性眩晕复位后残余头晕及前庭康复中枢代偿机制研究",
+  "institution": "徐州矿务集团总医院",
+  "study_type": "干预性研究",
+  "date": "2024/08/22",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2400087030",
+  "title": "针刺治疗后循环缺血性卒中伴眩晕临床多中心随机对照试验",
+  "institution": "成都中医药大学附属医院",
+  "study_type": "干预性研究",
+  "date": "2024/07/17",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2400086666",
+  "title": "朱链针灸抑制Ⅱ型手法结合颈椎定点旋转扳法治疗颈源性眩晕的随机对照试验",
+  "institution": "南海经济开发区人民医院",
+  "study_type": "治疗研究",
+  "date": "2024/07/08",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2400084182",
+  "title": "良性阵发性位置性眩晕临床特征、治疗与转归的队列研究",
+  "institution": "深圳市第二人民医院",
+  "study_type": "观察性研究",
+  "date": "2024/05/11",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2400081857",
+  "title": "通阳药游罐联合毫针针刺治疗颈性眩晕的临床疗效观察",
+  "institution": "山西中医药大学附属针灸推拿医院(山西省针灸医院)",
+  "study_type": "干预性研究",
+  "date": "2024/03/14",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2400081036",
+  "title": "姿势平衡对孤立性眩晕或头晕鉴别诊断的初步探究",
+  "institution": "湖南医药学院总医院",
+  "study_type": "诊断试验",
+  "date": "2024/02/21",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2400080905",
+  "title": "继发性良性阵发性位置性眩晕患者预后与vEMPS异常的相关性研究",
+  "institution": "厦门市海沧医院",
+  "study_type": "观察性研究",
+  "date": "2024/02/18",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2400080759",
+  "title": "调神三针联合脐针疗法治疗气血亏虚型颈性眩晕的疗效观察",
+  "institution": "杭州市萧山区第三人民医院",
+  "study_type": "干预性研究",
+  "date": "2024/02/06",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2400080302",
+  "title": "眩晕辅助诊断软件临床试验",
+  "institution": "复旦大学眼耳鼻喉科医院",
+  "study_type": "诊断试验",
+  "date": "2024/01/25",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2400080250",
+  "title": "芪仁通脉合剂治疗脑梗死恢复期（气虚血瘀证）临床观察",
+  "institution": "上海市黄浦区香山中医医院",
+  "study_type": "干预性研究",
+  "date": "2024/01/24",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2400080128",
+  "title": "评价盐酸倍他司汀片用药安全性的多中心真实世界临床研究",
+  "institution": "温州市中心医院",
+  "study_type": "观察性研究",
+  "date": "2024/01/22",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2400080039",
+  "title": "探索良性阵发性位置性眩晕复位治疗次数与疗效:一项前瞻性临床研究预试验",
+  "institution": "中山大学孙逸仙纪念医院",
+  "study_type": "干预性研究",
+  "date": "2024/01/18",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2400079976",
+  "title": "血钙联合骨密度对阵发性位置性眩晕手法复位后出现残余头晕的预测价值",
+  "institution": "西安市第五医院",
+  "study_type": "观察性研究",
+  "date": "2024/01/17",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2300079281",
+  "title": "黄帝内针针法治疗特发性耳石症手法复位后残余眩晕的临床研究",
+  "institution": "邛崃市中医医院",
+  "study_type": "干预性研究",
+  "date": "2023/12/29",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2300078232",
+  "title": "多中心、随机、双盲、安慰剂对照评价半夏天麻丸治疗周围性眩晕的有效性和安全性临床研究",
+  "institution": "广州中医药大学第一附属医院",
+  "study_type": "干预性研究",
+  "date": "2023/12/01",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2300077782",
+  "title": "神香苏合丸治疗后循环缺血性眩晕的临床研究",
+  "institution": "浙江省立同德医院",
+  "study_type": "干预性研究",
+  "date": "2023/11/20",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2300076755",
+  "title": "重复经颅磁刺激对良性阵发性位置性眩晕复位后残余头晕患者平衡及步态的影响",
+  "institution": "空军军医大学第一附属医院",
+  "study_type": "治疗研究",
+  "date": "2023/10/17",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2300076015",
+  "title": "针刺治疗良性阵发性位置性眩晕手法复位后残余头晕疗效的非劣效性研究",
+  "institution": "山东中医药大学附属医院",
+  "study_type": "干预性研究",
+  "date": "2023/09/21",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2300075144",
+  "title": "国际脊椎矫正手法联合颈椎运动链训练治疗颈性眩晕的临床研究",
+  "institution": "中国康复研究中心",
+  "study_type": "干预性研究",
+  "date": "2023/08/26",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2300074551",
+  "title": "头皮针电刺激疗法治疗外周性眩晕的疗效研究",
+  "institution": "湖北省中西医结合医院",
+  "study_type": "干预性研究",
+  "date": "2023/08/09",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2300073506",
+  "title": "眩晕患者的临床特征和颈部影响因素分析",
+  "institution": "四川大学华西医院",
+  "study_type": "病因学/相关因素研究",
+  "date": "2023/07/12",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2300073176",
+  "title": "基于Zelen's设计针刺耳三针治疗良性阵发性位置性眩晕成功复位后残余头晕疗效观察及Rs-fMRI研究",
+  "institution": "珠海市中西医结合医院",
+  "study_type": "干预性研究",
+  "date": "2023/07/04",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2300072214",
+  "title": "良性阵发性位置性眩晕易患因素、预后预测的注册登记研究及预防体系建立 ",
+  "institution": "首都医科大学附属北京朝阳医院",
+  "study_type": "病因学/相关因素研究",
+  "date": "2023/06/07",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2200056229",
+  "title": "知情同意书中描述的样本量与研究方案不符。               基于EEG-fMRI的毫针速刺法改善颈性眩晕的中枢机制研究",
+  "institution": "连云港市中医院",
+  "study_type": "干预性研究",
+  "date": "2022/02/02",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2200056186",
+  "title": "吴树宏医生：请于伦理委员会批准后才开始征募参试者，并与我们联系上传伦理批件，研究计划书，知情同意书模板。        不需判断患侧的自我复位法治疗PC-BPPV",
+  "institution": "成都中医药大学附属医院",
+  "study_type": "干预性研究",
+  "date": "2022/02/01",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2200055867",
+  "title": "针刺“三风穴”对后循环缺血眩晕患者的即刻效应：一项随机假对照临床试验",
+  "institution": "上海中医药大学深圳医院（深圳市罗湖区中医院）",
+  "study_type": "干预性研究",
+  "date": "2022/01/21",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2100052236",
+  "title": "眩晕患者步态及下肢受力情况研究",
+  "institution": "复旦大学附属眼耳鼻喉科医院",
+  "study_type": "观察性研究",
+  "date": "2021/10/23",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2100051942",
+  "title": "伸展疗法对寰枢关节脱臼引起的颈性眩晕的效果研究",
+  "institution": "福建医科大学附属泉州第一医院",
+  "study_type": "干预性研究",
+  "date": "2021/10/09",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2100051753",
+  "title": "针刺结合手法治疗眩晕的磁共振灌注成像研究",
+  "institution": "上海市第一人民医院",
+  "study_type": "干预性研究",
+  "date": "2021/10/02",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2100049414",
+  "title": "请于伦理委员会批准后才开始征募参试者，并与我们联系上传伦理批件。                                               传统功法训练治疗前庭周围性眩晕缓解期的有效性及安全性研究",
+  "institution": "成都中医药大学附属医院",
+  "study_type": "干预性研究",
+  "date": "2021/08/02",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2100049073",
+  "title": "茯苓饮联合小柴胡汤治疗良性阵发性位置性眩晕复位后残余头晕的临床研究",
+  "institution": "长春中医药大学附属医院",
+  "study_type": "干预性研究",
+  "date": "2021/07/20",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2100048733",
+  "title": "颈部肌肉功能对颈性眩晕影响的临床研究",
+  "institution": "中国康复研究中心",
+  "study_type": "干预性研究",
+  "date": "2021/07/14",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2100048603",
+  "title": "金匮泽泻汤辨证治疗良性阵发性位置性眩晕的随机对照试验",
+  "institution": "中国中医科学院中医临床基础医学研究所",
+  "study_type": "干预性研究",
+  "date": "2021/07/11",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2100048001",
+  "title": "老年眩晕患者的功能评估及新型康复方法的干预研究",
+  "institution": "空军军医大学第一附属医院",
+  "study_type": "干预性研究",
+  "date": "2021/06/28",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2100047162",
+  "title": "针刀治疗前庭性眩晕急性发作的随机对照研究",
+  "institution": "成都中医药大学附属医院",
+  "study_type": "干预性研究",
+  "date": "2021/06/09",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2100045921",
+  "title": "请于伦理委员会批准后才开始征募参试者，并与我们联系上传伦理批件, 研究计划书及知情同意书模板。        补充维生素D对预防良性阵发性位置行眩晕复发的疗效观察",
+  "institution": "甘肃省人民医院",
+  "study_type": "干预性研究",
+  "date": "2021/04/28",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2000039716",
+  "title": "基于多模态磁共振成像的颈性眩晕毫针速刺法作用机制研究",
+  "institution": "连云港市中医院",
+  "study_type": "干预性研究",
+  "date": "2020/11/06",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2000037496",
+  "title": "急诊头晕患者卒中风险的临床预测模型：建立与验证",
+  "institution": "华中科技大学同济医学院附属协和医院",
+  "study_type": "观察性研究",
+  "date": "2020/08/28",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2000036713",
+  "title": "唐占英医师：请上传伦理批件。               基于经筋失衡理论的针刀手法综合方案治疗颈性眩晕临床研究",
+  "institution": "上海中医药大学附属龙华医院",
+  "study_type": "干预性研究",
+  "date": "2020/08/24",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2000036131",
+  "title": "吴丽医师：请来信申请开放修改通道上传伦理审批文件。                    耳石症成功手法复位后残余头晕的发生情况及危险因素：一项巢式病例对照研究",
+  "institution": "上海交通大学医学院附属第九人民医院",
+  "study_type": "观察性研究",
+  "date": "2020/08/21",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2000035779",
+  "title": "该试验尚未获伦理委员会批准，请于批准后才开始征募参试者，并与我们联系上传伦理批件。                                     基于高密度脑电分析的耳源性眩晕的诊断与治疗新策略",
+  "institution": "上海交通大学附属第六人民医院",
+  "study_type": "观察性研究",
+  "date": "2020/08/16",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2000035696",
+  "title": "耳石症精准复位便携设备的研制及临床验证",
+  "institution": "上海市第六人民医院",
+  "study_type": "干预性研究",
+  "date": "2020/08/16",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2000032904",
+  "title": "眩晕智能诊疗平台的研发",
+  "institution": "复旦大学附属眼耳鼻喉科医院",
+  "study_type": "观察性研究",
+  "date": "2020/05/15",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2000031262",
+  "title": "中国常见眩晕症流行病学调查",
+  "institution": "中国人民解放军总医院",
+  "study_type": "观察性研究",
+  "date": "2020/03/26",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR1900028376",
+  "title": "仰卧位翻滚试验可用于治疗老年良性阵发性位置性眩晕",
+  "institution": "沭阳县人民医院",
+  "study_type": "观察性研究",
+  "date": "2019/12/20",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR1900027209",
+  "title": "时海波医师：该研究尚未获得伦理委员会批准。请于批准后再开始纳入参试者，并与我们联系上传批件。                             耳源性眩晕诊治措施的优化",
+  "institution": "上海交通大学附属第六人民医院",
+  "study_type": "干预性研究",
+  "date": "2019/11/05",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR1900023251",
+  "title": "突发性耳聋后迟发性良性阵发性位置性眩晕的预测因素分析及对策",
+  "institution": "中山大学附属第三医院",
+  "study_type": "基础科学研究",
+  "date": "2019/05/18",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR1900020863",
+  "title": "盐酸地芬尼多片生物等效性试验",
+  "institution": "长沙市第三医院",
+  "study_type": "干预性研究",
+  "date": "2019/01/21",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR1900020572",
+  "title": "银杏酮酯滴丸治疗脑动脉硬化症所致眩晕（血瘀证）的随机、双盲双模拟、阳性药平行对照、多中心临床试验",
+  "institution": "北京中医药大学东直门医院",
+  "study_type": "干预性研究",
+  "date": "2019/01/09",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR1800019392",
+  "title": "良性阵发性位置性眩晕的预测标志物及分子机制探究",
+  "institution": "上海市第六人民医院",
+  "study_type": "病因学/相关因素研究",
+  "date": "2018/11/08",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR1800019155",
+  "title": "特发性突聋伴眩晕前庭转归和康复训练疗效的多中心研究",
+  "institution": "复旦大学附属眼耳鼻喉科医院",
+  "study_type": "观察性研究",
+  "date": "2018/10/27",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR1800018004",
+  "title": "良性阵发性位置性眩晕复位成功后残余症状发生机制研究",
+  "institution": "复旦大学附属眼耳鼻喉科医院",
+  "study_type": "基础科学研究",
+  "date": "2018/08/26",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR1800017328",
+  "title": "良性阵发性位置性眩晕耳石复位后不稳感的干预研究",
+  "institution": "复旦大学附属眼耳鼻喉科医院",
+  "study_type": "干预性研究",
+  "date": "2018/07/24",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR1800015870",
+  "title": "两种介质的温度试验在健康人中检测结果的比较分析",
+  "institution": "中山大学附属第三医院",
+  "study_type": "诊断试验",
+  "date": "2018/04/25",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR1800015432",
+  "title": "耳石症患者的步态稳定性研究",
+  "institution": "上海交通大学生物医学工程学院",
+  "study_type": "病因学/相关因素研究",
+  "date": "2018/03/29",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR1800014262",
+  "title": "半夏白术天麻汤配方颗粒治疗眩晕急性发作期（风痰上扰证）临床疗效及安全性的多中心、随机、阳性药对照临床研究",
+  "institution": "石家庄市中医院",
+  "study_type": "干预性研究",
+  "date": "2018/01/02",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR-IIR-17014006",
+  "title": "自拟“化痰活血方”治疗不明原因眩晕症状患者疗效观察",
+  "institution": "中国人民解放军总医院中医科",
+  "study_type": "干预性研究",
+  "date": "2017/12/17",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR-COC-17013047",
+  "title": "右向左分流与青年型良性阵发性位置性眩晕相关性的前瞻性病例对照研究",
+  "institution": "深圳市人民医院",
+  "study_type": "病因学/相关因素研究",
+  "date": "2017/10/19",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR-DDD-17012031",
+  "title": "颈性头晕的诊断实验研究",
+  "institution": "武警总医院",
+  "study_type": "诊断试验",
+  "date": "2017/07/18",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR-INR-17011459",
+  "title": "调整生活方式对耳聋、耳鸣、眩晕等耳鼻喉科常见疑难疾病的疗效研究",
+  "institution": "四川大学华西医院",
+  "study_type": "干预性研究",
+  "date": "2017/05/22",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR-IOR-17010506",
+  "title": "良性阵发性位置性眩晕（BPPV）诊疗定位系统应用于BPPV 治疗的安全性和有效性临床试验",
+  "institution": "上海市第六人民医院",
+  "study_type": "干预性研究",
+  "date": "2017/01/23",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR-IOR-16009919",
+  "title": "硬膜外阻滞加电针与单纯硬膜外阻滞治疗颈性眩晕的实效性随机对照临床试验",
+  "institution": "乌鲁木齐市友谊医院",
+  "study_type": "干预性研究",
+  "date": "2016/11/18",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR-ION-16009815",
+  "title": "推拿抗眩晕效应的动力学参数优化及中枢响应机制研究",
+  "institution": "广东省中医院",
+  "study_type": "干预性研究",
+  "date": "2016/11/10",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR-DOD-16009779",
+  "title": "眩晕便捷诊断及鉴别诊断技术的推广应用",
+  "institution": "上海市第六人民医院",
+  "study_type": "诊断试验",
+  "date": "2016/11/08",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR-IOR-16009498",
+  "title": "良性阵发性位置性眩晕规范化诊断及治疗的临床研究",
+  "institution": "上海新华医院",
+  "study_type": "干预性研究",
+  "date": "2016/10/19",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR-DCD-15006540",
+  "title": "孤立性眩晕患者的颅内血管形态及脑灌注的相关性研究",
+  "institution": "暨南大学附属第一医院",
+  "study_type": "诊断试验",
+  "date": "2015/06/10",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR-CCC-10000761",
+  "title": "灌注加权成像（PWI）在诊断脑后循环低灌注所致眩晕/头晕中的应用",
+  "institution": "中山大学第一附属医院",
+  "study_type": "病因学/相关因素研究",
+  "date": "2010/01/22",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR-OCC-10000760",
+  "title": "伴有/不伴有眩晕的后循环系统脑梗死的临床对比研究",
+  "institution": "中山大学附属第一医院",
+  "study_type": "病因学/相关因素研究",
+  "date": "2010/01/18",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR-IPR-14005600",
+  "title": "李氏手法复位治疗良性阵发性位置性眩晕有效性的随机对照研究",
+  "institution": "海军总医院耳鼻喉科",
+  "study_type": "干预性研究",
+  "date": "2014/11/30",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR-ONRC-13003186",
+  "title": "矫正颈椎骨错缝手法治疗颈性眩晕临床观察",
+  "institution": "上海中医药大学",
+  "study_type": "观察性研究",
+  "date": "2013/01/15",
+  "matched_term": "眩晕"
+ },
+ {
+  "regno": "ChiCTR2600131653",
+  "title": "基于平台式框架的前庭疾病预防治疗真实世界多臂研究",
+  "institution": "杭州市第一人民医院",
+  "study_type": "观察性研究",
+  "date": "2026/09/04",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2600129381",
+  "title": "高血压患者颈动脉粥样硬化斑块易损性超声组学特征与生物学标志物关联性探究",
+  "institution": "徐州医科大学附属医院",
+  "study_type": "观察性研究",
+  "date": "2026/08/04",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2600129122",
+  "title": "低频组合频率经颅磁刺激治疗压力应激焦虑障碍的相关研究",
+  "institution": "包头市中心医院",
+  "study_type": "干预性研究",
+  "date": "2026/07/31",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2600128872",
+  "title": "在布格呋喃胶囊用可变剂量治疗广泛性焦虑障碍试验中的观察研究",
+  "institution": "首都医科大学附属北京安定医院",
+  "study_type": "观察性研究",
+  "date": "2026/07/27",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2600127544",
+  "title": "针对布格呋喃胶囊用固定剂量治疗广泛性焦虑障碍试验的延伸性观察研究",
+  "institution": "首都医科大学附属北京安定医院",
+  "study_type": "观察性研究",
+  "date": "2026/07/02",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2600127102",
+  "title": "十二导穿戴式动态心电兼容MRI、CT、X线、心超的研究",
+  "institution": "湖州市中心医院",
+  "study_type": "观察性研究",
+  "date": "2026/06/24",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2600126135",
+  "title": "全科-专科协同管理模式对“头晕待查”患者诊断效率及医疗资源利用影响的回顾性队列研究",
+  "institution": "重庆大学附属三峡医院（重庆三峡中心医院）",
+  "study_type": "观察性研究",
+  "date": "2026/06/04",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2600122668",
+  "title": "经颅时域干涉刺激对重性抑郁障碍共病持续性姿势-知觉性头晕患者疗效及脑网络调控机制探索",
+  "institution": "山西医科大学第一医院",
+  "study_type": "干预性研究",
+  "date": "2026/04/16",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2500115740",
+  "title": "保定地区儿童社区获得性耐甲氧西林金黄色葡萄球菌耐药性与基因特征研究",
+  "institution": "首都医科大学附属北京儿童医院保定医院",
+  "study_type": "观察性研究",
+  "date": "2025/12/30",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2500112325",
+  "title": "高原环境对眼部影响的前瞻性队列研究",
+  "institution": "中国人民解放军陆军军医大学第二附属医院",
+  "study_type": "观察性研究",
+  "date": "2025/11/12",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2500108729",
+  "title": "基于ICOPE模式在降低居家保健对象跌倒发生率的应用研究",
+  "institution": "浙江医院",
+  "study_type": "干预性研究",
+  "date": "2025/09/04",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2500106762",
+  "title": "基于rs-fMRI研究经颅交流电刺激对持续性姿势感知性头晕的作用及机制",
+  "institution": "陕西省人民医院",
+  "study_type": "干预性研究",
+  "date": "2025/07/30",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2500101280",
+  "title": "比较环泊酚、丙泊酚及依托咪酯在老年患者无痛胃肠镜麻醉中的应用",
+  "institution": "威海市立医院",
+  "study_type": "干预性研究",
+  "date": "2025/04/23",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2500100114",
+  "title": "经皮耳迷走神经刺激（taVNS）对颈动脉内膜剥脱老年患者有效性和安全性",
+  "institution": "徐州市中心医院",
+  "study_type": "干预性研究",
+  "date": "2025/04/02",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2500097866",
+  "title": "观察地氟烷联合静脉麻醉药对动脉瘤栓塞术后早期神经认知功能降低的影响",
+  "institution": "郑州大学第一附属医院",
+  "study_type": "干预性研究",
+  "date": "2025/02/26",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2500096864",
+  "title": "脑电仿生电刺激联合前庭康复对持续性姿势-感知性头晕的临床疗效",
+  "institution": "武汉科技大学附属武汉市普仁医院",
+  "study_type": "干预性研究",
+  "date": "2025/02/07",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2400094442",
+  "title": "脑小血管病伴主观认知功能下降的相关因素及与认知执行功能的前瞻性研究",
+  "institution": "西南医科大学附属医院",
+  "study_type": "观察性研究",
+  "date": "2024/12/23",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2400094138",
+  "title": "基于静息态 fMRI 技术研究催产素与持续性姿势-感知性头晕的相关性",
+  "institution": "陕西省人民医院",
+  "study_type": "观察性研究",
+  "date": "2024/12/17",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2400090140",
+  "title": "HS-20106在IPSS-R极低危、低危或中危骨髓增生异常综合征（MDS）贫血受试者中的有效性、安全性和药代动力学的II期临床研究",
+  "institution": "中国医学科学院血液病医院（中国医学科学院血液学研究所）",
+  "study_type": "干预性研究",
+  "date": "2024/09/24",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2400089971",
+  "title": "可溶性生长刺激表达基因2蛋白测定试剂盒（免疫荧光法） 临床试验",
+  "institution": "泰州市中医院",
+  "study_type": "观察性研究",
+  "date": "2024/09/20",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2400083944",
+  "title": "基于任务态脑电导航的rTMS靶向干预PPPD继发抑郁状态的应用和机制研究",
+  "institution": "上海市同济医院（同济大学附属同济医院）",
+  "study_type": "干预性研究",
+  "date": "2024/05/08",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2300075458",
+  "title": "初诊头晕患者中枢/周围性病变诊断模型的构建和评估",
+  "institution": "海军军医大学第一附属医院神经内科",
+  "study_type": "诊断试验",
+  "date": "2023/09/06",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2300071881",
+  "title": "浮针对颈源性头晕的即刻疗效及颈部血流动力学的影响",
+  "institution": "广东省第二中医院",
+  "study_type": "干预性研究",
+  "date": "2023/05/29",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2300071243",
+  "title": "静脉注射低容量钠钾镁钙葡萄糖注射液对无痛胃肠镜检查后头晕的影响:一项随机临床研究",
+  "institution": "简阳市人民医院",
+  "study_type": "干预性研究",
+  "date": "2023/05/09",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2200060087",
+  "title": "该研究未获得伦理委员会批准，请于批准后开始征募参试者，并与我们联系上传伦理批件，同时完善测量指标信息。                         持续姿势-感知性头晕（PPPD）患者前庭功能与抑郁状态以及脑白质改变的相关性研究",
+  "institution": "新乡医学院",
+  "study_type": "观察性研究",
+  "date": "2022/05/18",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2000040471",
+  "title": "北京城区社区居民头晕患病率及病因调研",
+  "institution": "解放军总医院第六医学中心",
+  "study_type": "观察性研究",
+  "date": "2020/11/29",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2000040204",
+  "title": "以小脑/前额叶为靶点的重复经颅磁刺激治疗持续性姿势感知性头晕的临床随机对照研究",
+  "institution": "大连医科大学附属第二医院",
+  "study_type": "干预性研究",
+  "date": "2020/11/25",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2000035073",
+  "title": "以小脑为靶点重复经颅磁刺激治疗持续性姿势-感知性头晕的临床疗效研究",
+  "institution": "大连市第三人民医院",
+  "study_type": "干预性研究",
+  "date": "2020/07/30",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR1800016064",
+  "title": "右向左分流患者伴发疾病及其临床特征和治疗效果的病例登记研究",
+  "institution": "深圳市人民医院",
+  "study_type": "观察性研究",
+  "date": "2018/05/09",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR-INR-17012061",
+  "title": "亚甲蓝颈椎间盘注射治疗颈性头晕的临床实验研究",
+  "institution": "武警总医院",
+  "study_type": "干预性研究",
+  "date": "2017/07/20",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR-OOC-16009548",
+  "title": "颈前路减压手术对伴头晕的颈椎病的疗效分析：一个基于病案分析的多中心研究",
+  "institution": "武警总医院",
+  "study_type": "观察性研究",
+  "date": "2016/10/23",
+  "matched_term": "头晕"
+ },
+ {
+  "regno": "ChiCTR2600122355",
+  "title": "内耳核磁钆造影量化指标与梅尼埃病患者前庭功能异常程度的相关性研究",
+  "institution": "天津市第四中心医院",
+  "study_type": "观察性研究",
+  "date": "2026/04/13",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2500115551",
+  "title": "整合单细胞转录组、转录组与孟德尔随机化解析梅尼埃病的遗传调控网络及免疫微环境互作机制的研究",
+  "institution": "深圳市第二人民医院",
+  "study_type": "观察性研究",
+  "date": "2025/12/29",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2500109583",
+  "title": "基于多模态症状识别的预测模型与护士主导个性化干预对梅尼埃病患者康复自我效能与心理社会结局影响的随机对照试验",
+  "institution": "山东省第二人民医院（山东省耳鼻喉医院、山东省耳鼻喉研究所）",
+  "study_type": "干预性研究",
+  "date": "2025/09/22",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2500102489",
+  "title": "基于 3D-real IR MR 序列在梅尼埃病中的临床应用研究",
+  "institution": "南昌大学第一附属医院",
+  "study_type": "观察性研究",
+  "date": "2025/05/15",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2500100290",
+  "title": "梅尼埃病的分子遗传机制研究",
+  "institution": "中国人民解放军总医院",
+  "study_type": "观察性研究",
+  "date": "2025/04/07",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2500095217",
+  "title": "梅尼埃病患者的听力学和前庭功能评估",
+  "institution": "南昌大学第二附属医院",
+  "study_type": "观察性研究",
+  "date": "2025/01/03",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2400093605",
+  "title": "全功能前庭诱发肌源性电位检测在梅尼埃病诊断中的应用：一项多中心观察性研究",
+  "institution": "上海交通大学医学院附属新华医院",
+  "study_type": "诊断试验",
+  "date": "2024/12/09",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2400093237",
+  "title": "鼓窦开放术在梅尼埃病中的疗效评估：一项多中心随机临床研究",
+  "institution": "北京大学人民医院",
+  "study_type": "干预性研究",
+  "date": "2024/11/29",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2400087114",
+  "title": "甲氨蝶呤联合度普利尤单抗治疗梅尼埃病的探索性临床研究",
+  "institution": "山东省第二人民医院(山东省耳鼻喉医院、山东省耳鼻咽研究所)",
+  "study_type": "干预性研究",
+  "date": "2024/07/19",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2400086895",
+  "title": "甲氨蝶呤联合阿达木单抗治疗梅尼埃病的探索性临床研究",
+  "institution": "山东省第二人民医院(山东省耳鼻喉医院山东省耳鼻咽研究所)",
+  "study_type": "干预性研究",
+  "date": "2024/07/15",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2400086879",
+  "title": "甲氨蝶呤治疗梅尼埃病的探索性临床研究",
+  "institution": "山东省第二人民医院(山东省耳鼻喉医院、山东省耳鼻咽研究所)",
+  "study_type": "干预性研究",
+  "date": "2024/07/15",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2400083842",
+  "title": "梅尼埃病临床分型、分期指标的探索及疾病转归预测的队列研究",
+  "institution": "西安交通大学第一附属医院",
+  "study_type": "干预性研究",
+  "date": "2024/05/06",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2300076143",
+  "title": "探究甘油试验诊断梅尼埃病患者时静脉输入甘油比口服甘油是否有更高的阳性率",
+  "institution": "空军特色医学中心-眩晕中心",
+  "study_type": "干预性研究",
+  "date": "2023/09/26",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2300070187",
+  "title": "难治性梅尼埃病内淋巴囊减压术与化学性迷路切除的临床队列研究",
+  "institution": "深圳市第二人民医院",
+  "study_type": "观察性研究",
+  "date": "2023/04/04",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2300069172",
+  "title": "梅尼埃病临床特征、治疗与转归的队列研究",
+  "institution": "复旦大学附属眼耳鼻喉科医院",
+  "study_type": "流行病学研究",
+  "date": "2023/03/08",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2200061169",
+  "title": "请与我们联系完善研究实施地点信息。                           内淋巴囊手术治疗梅尼埃病有效性的随机对照临床研究",
+  "institution": "空军军医大学第二附属医院耳鼻咽喉头颈外科",
+  "study_type": "干预性研究",
+  "date": "2022/06/15",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2200061004",
+  "title": "内淋巴囊手术治疗梅尼埃病的有效性随机对照临床研究",
+  "institution": "空军军医大学唐都医院耳鼻喉科",
+  "study_type": "干预性研究",
+  "date": "2022/06/15",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2100049239",
+  "title": "比较半规管阻塞手术和迷路切除手术治疗晚期顽固性梅尼埃病的一项随机对照临床研究",
+  "institution": "山东省第二人民医院（山东省耳鼻喉医院）",
+  "study_type": "干预性研究",
+  "date": "2021/07/28",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2100045503",
+  "title": "梅尼埃患者骨代谢标志物：基于病历记录的研究",
+  "institution": "哈尔滨医科大学附属第一医院",
+  "study_type": "观察性研究",
+  "date": "2021/04/18",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2000036886",
+  "title": "人工智能辅助的梅尼埃病精准诊疗系统临床验证研究",
+  "institution": "上海交通大学医学附属新华医院",
+  "study_type": "诊断试验",
+  "date": "2020/08/25",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2000035905",
+  "title": "新型脉冲压力发生仪治疗梅尼埃病安全性及有效性研究",
+  "institution": "上海交通大学附属第六人民医院",
+  "study_type": "干预性研究",
+  "date": "2020/08/19",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2000029028",
+  "title": "梅尼埃病及突发性耳聋伴眩晕患者内耳末梢器官损害、听力损失程度与症状评分的相关性研究",
+  "institution": "上海交通大学附属第六人民医院",
+  "study_type": "观察性研究",
+  "date": "2020/01/11",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR1900024370",
+  "title": "免疫抑制剂治疗梅尼埃病的随机对照临床研究",
+  "institution": "山东大学附属山东省耳鼻喉医院",
+  "study_type": "干预性研究",
+  "date": "2019/07/07",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR1900023606",
+  "title": "比较半规管阻塞手术和鼓室注射庆大霉素治疗晚期顽固性梅尼埃病的一项随机对照临床研究",
+  "institution": "山东大学附属山东省耳鼻喉医院",
+  "study_type": "干预性研究",
+  "date": "2019/06/04",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR1800015656",
+  "title": "联合听觉及前庭觉功能评估的梅尼埃病诊治新策略——随机、对照、多中心临床研究",
+  "institution": "上海交通大学附属第六人民医院",
+  "study_type": "病因学/相关因素研究",
+  "date": "2018/04/13",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR-HOC-17013102",
+  "title": "基层医院梅尼埃病诊治状况抽样调查及干预研究",
+  "institution": "浙江省湖州市第三人民医院",
+  "study_type": "卫生服务研究",
+  "date": "2017/10/25",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR-IOR-15007299",
+  "title": "泽泻汤加减减轻梅尼埃病（痰湿型）急性期膜迷路水肿的临床疗效评价研究",
+  "institution": "北京中医药大学东直门医院",
+  "study_type": "干预性研究",
+  "date": "2015/10/06",
+  "matched_term": "梅尼埃病"
+ },
+ {
+  "regno": "ChiCTR2500097982",
+  "title": "经颅磁刺激治疗前庭性偏头痛的临床随机对照研究",
+  "institution": "徐州矿务集团总医院",
+  "study_type": "干预性研究",
+  "date": "2025/02/28",
+  "matched_term": "前庭性偏头痛"
+ },
+ {
+  "regno": "ChiCTR2400083113",
+  "title": "前庭性偏头痛诊断预测模型的构建",
+  "institution": "河北医科大学第一医院",
+  "study_type": "观察性研究",
+  "date": "2024/04/16",
+  "matched_term": "前庭性偏头痛"
+ },
+ {
+  "regno": "ChiCTR2400080734",
+  "title": "岐黄针疗法联合盐酸氟桂利嗪胶囊治疗前庭性偏头痛：一项随机试验",
+  "institution": "广东药科大学附属第一医院",
+  "study_type": "治疗研究",
+  "date": "2024/02/05",
+  "matched_term": "前庭性偏头痛"
+ },
+ {
+  "regno": "ChiCTR2100053557",
+  "title": "前庭性偏头痛影响因素的病例对照研究",
+  "institution": "山东第一医科大学第一附属医院",
+  "study_type": "观察性研究",
+  "date": "2021/11/24",
+  "matched_term": "前庭性偏头痛"
+ },
+ {
+  "regno": "ChiCTR2100052387",
+  "title": "经颅磁刺激应用于前庭性偏头痛治疗的安全性和有效性临床试验",
+  "institution": "上海市第六人民医院",
+  "study_type": "干预性研究",
+  "date": "2021/10/24",
+  "matched_term": "前庭性偏头痛"
+ },
+ {
+  "regno": "ChiCTR2100042199",
+  "title": "沈友进医师：请与我们联系上传伦理批件并填写审批日期。       老年人前庭性偏头痛与脑卒中的相关性研究",
+  "institution": "佛山市禅城区永安医院",
+  "study_type": "观察性研究",
+  "date": "2021/01/15",
+  "matched_term": "前庭性偏头痛"
+ },
+ {
+  "regno": "ChiCTR2000033771",
+  "title": "益生菌Lactobacillus casei Shirota对前庭性偏头痛症状效果的临床研究",
+  "institution": "沧州市中心医院 神经内四科",
+  "study_type": "干预性研究",
+  "date": "2020/06/11",
+  "matched_term": "前庭性偏头痛"
+ },
+ {
+  "regno": "ChiCTR1800014766",
+  "title": "眩晕伴偏头痛患者多中心临床研究",
+  "institution": "航天中心医院",
+  "study_type": "病因学/相关因素研究",
+  "date": "2018/02/03",
+  "matched_term": "前庭性偏头痛"
+ },
+ {
+  "regno": "ChiCTR-OPC-17011266",
+  "title": "文拉法辛，氟桂利嗪和丙戊酸在前庭偏头痛预防中的疗效",
+  "institution": "山东省千佛山医院",
+  "study_type": "观察性研究",
+  "date": "2017/04/30",
+  "matched_term": "前庭性偏头痛"
+ },
+ {
+  "regno": "ChiCTR-IPR-15007404",
+  "title": "头痛宁胶囊与丙戊酸钠预防前庭性偏头痛效果对比研究",
+  "institution": "海军总医院",
+  "study_type": "干预性研究",
+  "date": "2015/08/23",
+  "matched_term": "前庭性偏头痛"
+ }
+]

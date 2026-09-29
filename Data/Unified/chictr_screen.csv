@@ -1,0 +1,171 @@
+﻿Registry,reg_id,registered condition,Decision,Reason
+ChiCTR,ChiCTR2600131844,颈肩痛、腰背痛、僵硬；放射痛；头晕、眩晕；手指麻木；上肢无力、握力下降；下肢发沉、无力；走路踩棉感；大小便障碍,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2600130924,良性阵发性位置性眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2600130084,良性阵发性位置性眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2600129972,眩晕、前庭神经炎、脑卒中,Exclude,"Registered study type is 诊断试验, not an interventional design"
+ChiCTR,ChiCTR2600129448,良性阵发性位置性眩晕,Include,
+ChiCTR,ChiCTR2600127103,"头晕/头痛患者（前庭性偏头痛VM、偏头痛Mig、良性阵发性位置性眩晕BPPV、良性阵发性眩晕BRV、梅尼埃病MD、入组前3月发作频次至少每月1次）、前庭神经炎VN,",Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2600127063,内耳疾病，包括但不限于突发性聋，耳鸣，梅尼埃病，良性阵发性位置性眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2600126891,头晕和眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2600125338,脑卒中:突发的对侧肢体麻木、力弱、感觉障碍、单眼黑矇、眩晕、复视、双眼黑矇、共济障碍等,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2600125183,中枢性与外周性眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2600123511,良性阵发性位置性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2600121134,耳源性眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2600119785,急性前庭综合征（AVS）（包含梅尼埃病、前庭神经炎、突发耳聋伴眩晕）,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2600117651,良性阵发性位置性眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2600116577,良性阵发性位置性眩晕；睡眠障碍,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2500115373,眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2500109314,眩晕恶心,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2500109126,良性阵发性位置性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2500108619,良性阵发性位置性眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2500107729,良性阵发性位置性眩晕(BPPV),Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2500107253,椎-基底动脉延长扩张综合征(VBD)是一种以椎基底动脉异常迂曲、扩张为特征的脑血管病变，主要临床表现为后循环缺血症状（如头晕、眩晕、共济失调）、脑神经压迫症状（如三叉神经痛、面肌痉挛）以及脑出血等严重并发症。该病变可通过高分辨率磁共振血管成像(HR-VWI)明确诊断，典型影像学特征包括基底动脉直径>4.5mm、血管明显迂曲偏移等。本研究将重点探讨VBD在健康体检人群中的检出率及其相关影像学特征。,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2500107252,中枢性眩晕患者若存在脑毛细血管反应性损伤（如小血管病、慢性脑缺血），症状表现为持续数小时的非旋转性眩晕（漂浮感、失衡感），与体位无关，常伴垂直/凝视性眼震（头脉冲试验阴性）。微循环障碍可致步态不稳（黏胶步态）、短暂肢体麻木无力、执行功能下降（注意力分散、计划困难）；严重时出现脑干/小脑缺血症状（构音障碍、交叉性感觉障碍）。血脑屏障破坏可引发晨起头痛、血压波动性认知障碍。后循环TIA或遗传性小血管病,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2500106836,睡眠障碍、眩晕及焦虑,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2500101308,良性阵发性位置性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2500101235,耳源性眩晕疾病,Exclude,"Registered study type is 诊断试验, not an interventional design"
+ChiCTR,ChiCTR2500099133,良性阵发性位置性眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2500097231,良性阵发性位置性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2400094096,前庭神经炎：急性眩晕、恶心、呕吐、平衡障碍,Exclude,"Registered study type is 诊断试验, not an interventional design"
+ChiCTR,ChiCTR2400094067,良性阵发性位置性眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2400091397,突发感音神经性耳聋；睡眠障碍；耳鸣；耳闷；眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2400089706,高血压眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2400089341,眩晕疾病,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2400088618,良性阵发性位置性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2400087030,后循环缺血性卒中伴眩晕,Include,
+ChiCTR,ChiCTR2400086666,颈性眩晕,Include,
+ChiCTR,ChiCTR2400084182,良性阵发性位置性眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2400081857,颈性眩晕,Include,
+ChiCTR,ChiCTR2400081036,头晕或眩晕；脑梗死；脑出血；前庭神经炎；良性阵发性位置性眩晕；梅尼埃病等,Exclude,"Registered study type is 诊断试验, not an interventional design"
+ChiCTR,ChiCTR2400080905,良性阵发性位置性眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2400080759,颈性眩晕,Include,
+ChiCTR,ChiCTR2400080302,良性阵发性位置性眩晕,Exclude,"Registered study type is 诊断试验, not an interventional design"
+ChiCTR,ChiCTR2400080250,西医诊断符合《中国急性缺血性脑卒中诊治指南2018》［2］中的脑梗死诊断标准： ①进行起病； ②局灶性神经功能缺损，少数为全面神经功能缺损； ③影像学出现责任病灶或症状/体征持续24h以上； ④排除非血管性病因； ⑤脑CT/MRI排除脑出血。 中风病中医诊断标准 主要症状：偏瘫、神识昏蒙，言语謇涩或不语，偏身感觉异常，口舌歪斜。 次要症状：头痛，眩晕，瞳神变化，饮水发呛，目偏不瞬，,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2400080128,盐酸倍他司汀片用于治疗梅尼埃综合症相关的眩晕，耳鸣和听力下降,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2400080039,良性阵发性位置性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2400079976,眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2300079281,特发性耳石症手法复位后残余眩晕症状,Include,
+ChiCTR,ChiCTR2300078232,周围性眩晕[良性阵发性位置性眩晕(BPPV)、梅尼埃病、前庭神经炎],Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2300077782,后循环缺血性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2300076755,良性阵发性位置性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2300076015,良性阵发性位置性眩晕手法复位后残余头晕,Include,
+ChiCTR,ChiCTR2300075144,颈性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2300074551,外周性眩晕,Include,
+ChiCTR,ChiCTR2300073506,眩晕,Exclude,"Registered study type is 病因学/相关因素研究, not an interventional design"
+ChiCTR,ChiCTR2300073176,良性阵发性位置性眩晕,Include,
+ChiCTR,ChiCTR2300072214,良性阵发性位置性眩晕,Exclude,"Registered study type is 病因学/相关因素研究, not an interventional design"
+ChiCTR,ChiCTR2200056229,颈源性眩晕,Include,
+ChiCTR,ChiCTR2200056186,后半规管良性发作性位置性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2200055867,后循环缺血眩晕,Include,
+ChiCTR,ChiCTR2100052236,眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2100051942,寰枢关节脱臼引起的颈性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2100051753,后循环缺血性眩晕,Include,
+ChiCTR,ChiCTR2100049414,前庭周围性眩晕缓解期,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2100049073,良性阵发性位置性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2100048733,颈性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2100048603,良性阵发性位置性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2100048001,眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2100047162,前庭性眩晕急性发作,Include,
+ChiCTR,ChiCTR2100045921,良性阵发性位置性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2000039716,颈源性眩晕,Include,
+ChiCTR,ChiCTR2000037496,头晕/眩晕/失衡,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2000036713,颈性眩晕,Include,
+ChiCTR,ChiCTR2000036131,良性阵发性位置性眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2000035779,眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2000035696,良性阵发性位置性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2000032904,耳源性眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2000031262,良性阵发性位置性眩晕，前庭偏头痛,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR1900028376,眩晕症,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR1900027209,耳源性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR1900023251,突发性耳聋，良性阵发性位置性眩晕,Exclude,"Registered study type is 基础科学研究, not an interventional design"
+ChiCTR,ChiCTR1900020863,眩晕症,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR1900020572,脑动脉硬化症所致的眩晕（血瘀证）,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR1800019392,良性阵发性位置性眩晕,Exclude,"Registered study type is 病因学/相关因素研究, not an interventional design"
+ChiCTR,ChiCTR1800019155,特发性突聋伴眩晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR1800018004,良性阵发性位置性眩晕,Exclude,"Registered study type is 基础科学研究, not an interventional design"
+ChiCTR,ChiCTR1800017328,良性阵发性位置性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR1800015870,Vertigo,Exclude,"Registered study type is 诊断试验, not an interventional design"
+ChiCTR,ChiCTR1800015432,良性阵发性位置性眩晕,Exclude,"Registered study type is 病因学/相关因素研究, not an interventional design"
+ChiCTR,ChiCTR1800014262,眩晕急性发作期（风痰上扰证）,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR-IIR-17014006,眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR-COC-17013047,青年型良性阵发性位置性眩晕,Exclude,"Registered study type is 病因学/相关因素研究, not an interventional design"
+ChiCTR,ChiCTR-DDD-17012031,颈性眩晕,Exclude,"Registered study type is 诊断试验, not an interventional design"
+ChiCTR,ChiCTR-INR-17011459,耳鸣；耳聋；眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR-IOR-17010506,良性阵发性位置性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR-IOR-16009919,颈性眩晕,Include,
+ChiCTR,ChiCTR-ION-16009815,颈性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR-DOD-16009779,眩晕,Exclude,"Registered study type is 诊断试验, not an interventional design"
+ChiCTR,ChiCTR-IOR-16009498,良性阵发性位置性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR-DCD-15006540,眩晕,Exclude,"Registered study type is 诊断试验, not an interventional design"
+ChiCTR,ChiCTR-CCC-10000761,中枢性血管性眩晕/头晕,Exclude,"Registered study type is 病因学/相关因素研究, not an interventional design"
+ChiCTR,ChiCTR-OCC-10000760,缺血性脑梗死与眩晕,Exclude,"Registered study type is 病因学/相关因素研究, not an interventional design"
+ChiCTR,ChiCTR-IPR-14005600,良性阵发性位置性眩晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR-ONRC-13003186,颈源性眩晕/头晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2600131653,前庭性偏头痛；可能的前庭性偏头痛；梅尼埃病；持续性姿势-感知性头晕；复发性前庭症状－未明确分类,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2600129381,原发性高血压伴颈动脉粥样硬化斑块，颈动脉斑块存在不稳定性超声特征即易损斑块，头晕乏力或伴有伴一侧肢体偏瘫,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2600129122,焦虑，头晕，头痛，失眠，记忆减退,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2600128872,广泛性焦虑障碍（特征为泛化且持续的焦虑，不局限于甚至不是主要见于任何特定的外部环境，“自由浮动”。以下主诉常见:总感到神经紧张、发抖、肌肉紧张、出汗、头重脚轻、心悸、头晕、上腹不适。病人常诉及自己或亲人很快会有疾病或灾祸临头，病程不定，但趋于波动并成为慢性。,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2600127544,广泛性焦虑障碍（特征为泛化且持续的焦虑，不局限于甚至不是主要见于任何特定的外部环境，“自由浮动”。以下主诉常见:总感到神经紧张、发抖、肌肉紧张、出汗、头重脚轻、心悸、头晕、上腹不适。病程不定，但趋于波动并成为慢性。,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2600127102,需行24小时动态心电图监测的各种心律失常及心脏电活动异常，如心悸、头晕、晕厥、已知心脏病需评估者。,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2600126135,头晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2600122668,重性抑郁障碍共病持续性姿势-知觉性头晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2500115740,皮肤及软组织感染：皮肤出现红肿、疼痛的脓疱、蜂窝织炎，形成脓肿，可伴有波动感、破溃流脓，严重时出现坏死性筋膜炎，表现为皮肤发黑、剧痛、全身高热；肺部感染：突发高热、寒战、咳嗽，咳黄脓痰或血痰，出现胸闷、呼吸困难，甚至呼吸衰竭，胸部影像学可见多发肺部浸润影或脓肿；中枢神经系统感染：剧烈头痛、呕吐、颈项强直，高热、意识模糊、嗜睡甚至昏迷，可出现癫痫发作；血流感染：持续高热、寒战，体温可超过39℃，头晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2500112325,急性高原病，症状包括：头痛、恶心、呕吐、疲劳和头晕等； 干眼；色觉敏感度下降,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2500108729,老年内在能力下降导致的一系列症状：如头晕、低血压、睡眠障碍、步态不稳等,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2500106762,持续性姿势-感知性头晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2500101280,胃肠镜检查过程中应用不同镇静药物的生命体征，包括血压、心率、呼吸等，以及患者术后不良反应，包括恶心、呕吐、头晕等,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2500100114,本研究针对接受颈动脉内膜剥脱术（CEA）的老年患者（65-80岁），其疾病背景为动脉粥样硬化性颈动脉狭窄，需通过CEA预防缺血性脑卒中。主要关注术后中枢神经系统并发症，包括脑卒中、无症状脑梗死及脑过度灌注综合征等；次要评估术后神经认知功能下降（PNCD）、焦虑抑郁（汉密尔顿量表）、疼痛（VAS量表）、睡眠质量（匹兹堡量表）及恢复质量。同时监测taVNS相关不良反应，如耳部皮疹、心悸、头晕等，以全面,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2500097866,头痛、头晕、恶心、呕吐,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2500096864,持续性姿势-感知性头晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2400094442,脑小血管病，以头晕、头痛等非特异性症状,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2400094138,持续性姿势-感知性头晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2400090140,IPSS-R 极低危、低危或中危骨髓增生异常综合征（MDS）贫血受试者 血细胞减少是临床上常见的血液学异常，指人体外周血中的白细胞、红细胞或血小板计数出现不同程度的降低，从而引起感染、头晕、乏力、出血、免疫功能下降或脏器缺血缺氧等症状,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2400089971,心力衰竭、心肌梗死的心血管疾病或其他心血管疾病以及胸闷、胸痛、头晕等常见相似症状的其他疾病,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2400083944,持续性姿势-感知性头晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2300075458,头晕,Exclude,"Registered study type is 诊断试验, not an interventional design"
+ChiCTR,ChiCTR2300071881,颈源性头晕,Include,
+ChiCTR,ChiCTR2300071243,头晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2200060087,持续姿势-感知性头晕（PPPD）,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2000040471,头晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2000040204,持续性姿势感知性头晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2000035073,持续性姿势-感知性头晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR1800016064,脑卒中、偏头痛、头晕、晕厥,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR-INR-17012061,颈性头晕,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR-OOC-16009548,颈性头晕,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2600122355,梅尼埃病,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2500115551,"梅尼埃病（Meniere’sdisease, MD）",Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2500109583,梅尼埃病,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2500102489,梅尼埃病,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2500100290,梅尼埃病,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2500095217,梅尼埃病,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2400093605,梅尼埃病,Exclude,"Registered study type is 诊断试验, not an interventional design"
+ChiCTR,ChiCTR2400093237,梅尼埃病,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2400087114,梅尼埃病,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2400086895,梅尼埃病,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2400086879,梅尼埃病,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2400083842,梅尼埃病,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2300076143,梅尼埃病,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2300070187,难治性梅尼埃病,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2300069172,梅尼埃病,Exclude,"Registered study type is 流行病学研究, not an interventional design"
+ChiCTR,ChiCTR2200061169,梅尼埃病,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2200061004,梅尼埃病,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2100049239,梅尼埃病,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2100045503,梅尼埃病,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2000036886,梅尼埃病,Exclude,"Registered study type is 诊断试验, not an interventional design"
+ChiCTR,ChiCTR2000035905,梅尼埃病,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2000029028,梅尼埃病,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR1900024370,梅尼埃病,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR1900023606,梅尼埃病,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR1800015656,梅尼埃病,Exclude,"Registered study type is 病因学/相关因素研究, not an interventional design"
+ChiCTR,ChiCTR-HOC-17013102,梅尼埃病,Exclude,"Registered study type is 卫生服务研究, not an interventional design"
+ChiCTR,ChiCTR-IOR-15007299,梅尼埃病,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2500097982,前庭性偏头痛,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2400083113,前庭性偏头痛,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2400080734,前庭性偏头痛,Include,
+ChiCTR,ChiCTR2100053557,前庭性偏头痛,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2100052387,前庭性偏头痛,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR2100042199,前庭性偏头痛；脑卒中,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR2000033771,前庭性偏头痛,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)
+ChiCTR,ChiCTR1800014766,前庭性偏头痛,Exclude,"Registered study type is 病因学/相关因素研究, not an interventional design"
+ChiCTR,ChiCTR-OPC-17011266,前庭性偏头痛,Exclude,"Registered study type is 观察性研究, not an interventional design"
+ChiCTR,ChiCTR-IPR-15007404,前庭性偏头痛,Exclude,Registered intervention names no acupuncture-family modality (no term in the acupuncture word list matches the title or the registered intervention field)

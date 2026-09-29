@@ -1,0 +1,20 @@
+{
+ "ctgov_per_term": {
+  "vertigo": 436,
+  "dizziness": 436,
+  "Meniere": 76,
+  "BPPV": 88,
+  "vestibular migraine": 50,
+  "cervical vertigo": 32
+ },
+ "ctgov_or_total": 499,
+ "itmctr_per_term": {
+  "眩晕": "31",
+  "头晕": "6",
+  "梅尼埃病": "0",
+  "耳石症": "0",
+  "前庭性偏头痛": "1",
+  "颈性眩晕": "5"
+ },
+ "itmctr_unique": 36
+}

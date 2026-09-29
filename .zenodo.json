@@ -1,0 +1,42 @@
+{
+  "title": "Acupuncture clinical trial registration for vertigo: a descriptive multi-registry comparison of ClinicalTrials.gov, ChiCTR and ITMCTR (2015-2026) - data, code and manuscript",
+  "upload_type": "software",
+  "description": "<p>Search scripts, raw registry responses, screening audit, extracted fields, table and figure generation code, and the manuscript for a cross-sectional analysis of registered acupuncture trials for vertigo on three trial registries.</p><p>Version 2.0 replaces version 1.0, which searched ClinicalTrials.gov on all fields and the two Chinese registries on the target-disease field only; those retrieved totals were not comparable and no density ratio can be taken from them. In this version all three registries are searched on the disease or condition field with the same six vertigo concepts, every retrieved record carries a documented inclusion decision, the blinding classification follows a stated rule applied to the registry text, and the trend model that had been fitted to a differently defined set is removed.</p><p>Retrieved 705 disease-field records (ClinicalTrials.gov 499, ChiCTR 170, ITMCTR 36) on 29 September 2026 and confirmed 38 registered acupuncture-vertigo trials (7, 18, 13). The retained ChiCTR registry pages are included so that every extracted ChiCTR field can be checked without live registry access. Tables 1-3 and Figures 1-4 are produced by one script that runs 48 consistency checks and exits non-zero if any fails.</p>",
+  "creators": [
+    {
+      "name": "Zhang, Qin",
+      "affiliation": "Department of Acupuncture and Moxibustion, The Affiliated Traditional Chinese Medicine Hospital, Guangzhou Medical University, Guangzhou, Guangdong, China"
+    },
+    {
+      "name": "Yin, Tong",
+      "affiliation": "The Second Clinical Medical College of Guangzhou University of Chinese Medicine, Guangzhou, Guangdong, China"
+    },
+    {
+      "name": "Huang, Yueping",
+      "affiliation": "The Second Clinical Medical College of Guangzhou University of Chinese Medicine, Guangzhou, Guangdong, China"
+    },
+    {
+      "name": "Chen, Chuyun",
+      "affiliation": "Department of Acupuncture and Moxibustion, The Affiliated Traditional Chinese Medicine Hospital, Guangzhou Medical University, Guangzhou, Guangdong, China"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "acupuncture",
+    "vertigo",
+    "clinical trial registration",
+    "ClinicalTrials.gov",
+    "ChiCTR",
+    "ITMCTR",
+    "research reporting"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/1947314628-ui/acupuncture-vertigo-clinicaltrials-registry",
+      "relation": "isSupplementTo",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ]
+}
